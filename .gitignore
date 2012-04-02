@@ -1,0 +1,6 @@
+*.swp
+*.aux
+*.log
+*.out
+*.tex
+*.pyc
