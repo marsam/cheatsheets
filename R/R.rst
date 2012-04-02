@@ -8,11 +8,11 @@ Help
 ========================== ==========================================
 Command                     Description
 ========================== ==========================================
-> help(cmd) # or ?cmd       Display the documentation for *cmd*.
-> args(cmd)                 Display the arguments of *cmd*.
-> example(cmd)              Display examples of *cmd*.
-> help.start()              View the documenation supplied by R.
-> RSiteSearch("phrase")     Search "phrase" in search.r-project.org
+help(cmd) # or ?cmd         Display the documentation for *cmd*.
+args(cmd)                   Display the arguments of *cmd*.
+example(cmd)                Display examples of *cmd*.
+help.start()                View the documenation supplied by R.
+RSiteSearch("phrase")       Search "phrase" in search.r-project.org
 ========================== ==========================================
 
 Reading files
@@ -21,8 +21,8 @@ Reading files
 ============================== ======================================
 Command                         Description
 ============================== ======================================
-> read.table("filename.txt")    Reads tabular file.
-> read.csv("filename.csv")      Reads csv file.
+read.table("filename.txt")      Reads tabular file.
+read.csv("filename.csv")        Reads csv file.
 ============================== ======================================
 
 Statistics Functions
@@ -31,12 +31,12 @@ Statistics Functions
 ============== ========================
 Command         Description
 ============== ========================
-> mean(x)       mean
-> median(x)     median
-> sd(x)         Standard deviation
-> var(x)        Variance
-> cor(x, y)     Correlation
-> cov(x, y)     Covariance
+mean(x)         mean
+median(x)       median
+sd(x)           Standard deviation
+var(x)          Variance
+cor(x, y)       Correlation
+cov(x, y)       Covariance
 ============== ========================
 
 Links
