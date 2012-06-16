@@ -77,6 +77,7 @@ Status Code Reason Phrase
 505_        HTTP Version not supported
 =========== ===============================
 
+.. Links: {{{
 
 .. _100: http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.1.1
 .. _101: http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.1.2
@@ -116,3 +117,5 @@ Status Code Reason Phrase
 .. _503: http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.5.4
 .. _504: http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.5.5
 .. _505: http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.5.6
+
+.. }}}
