@@ -1,12 +1,12 @@
 
 PREAMBLE = "\usepackage[landscape=TRUE,margin=1.5cm,paper=a4paper]{geometry}"
 
-RST2LATEX 		= rst2latex.py
-RST2LATEX_OPTS 	= --verbose --documentoptions=10pt \
+RST2LATEX 	= rst2latex.py
+RST2LATEX_OPTS	= --verbose --documentoptions=10pt \
 		--use-latex-docinfo --use-latex-abstract --use-latex-citations\
 		--tab-width=4 --literal-block-env=verbatim \
 		--graphicx-option=pdftex --stylesheet=fancyhdr,iwona \
-	   	--latex-preamble=$(PREAMBLE)	#--table-style=booktabs
+		--latex-preamble=$(PREAMBLE)	#--table-style=booktabs
 
 help:
 	@echo "You can use \`make <target>' where <target> is one of"

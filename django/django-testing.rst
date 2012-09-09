@@ -1,13 +1,14 @@
-==========================
+===============================================================================
 Django Testing Cheat Sheet
-==========================
+===============================================================================
 
     "Code without tests is broken by design." - Jacob_
 
 Links
-=====
+===============================================================================
+
 Django Docs: Testing Django applications
-    http://django.me/testing
+  | http://django.me/testing
 
 Django TDD Tutorial
   | http://www.tdd-django-tutorial.com/
@@ -23,3 +24,4 @@ Django Testing Docs
 
 .. }}}
 
+.. vim:ft=rst:tw=79:noet:fdm=marker:
