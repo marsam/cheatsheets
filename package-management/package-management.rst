@@ -1,11 +1,11 @@
 
 ===============================================================================
-Package Management Cheatsheet
+Package Management Cheatsheet [*]_
 ===============================================================================
 A package management reference card for Linux distributions and FreeBSD
 ===============================================================================
 
-.. :Authors: DistroWatch.com (http://distrowatch.com/packages.php); Mario Rodas (pdf version)
+.. [*] Based on http://distrowatch.com/dwres.php?resource=package-management
 
 Introduction
 -------------------------------------------------------------------------------
