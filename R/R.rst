@@ -50,7 +50,7 @@ which		Which indices are TRUE.
 =============== ===============================================================
 
 Misc. Functions
-===============
+===============================================================================
 
 =============== ===============================================================
 Command		Description
@@ -59,19 +59,26 @@ demo()		Demostration R scripts.
 data()		Show data sets.
 =============== ===============================================================
 
+Tools
+===============================================================================
+RStudio
+  | http://www.rstudio.org/
+  | Ubuntu ppa: ppa:aims/aims-desktop
+
+
 Links
-=====
+===============================================================================
 
 R-project
-    http://www.r-project.org
+  | http://www.r-project.org
 
 R-project search engine
-    http://www.rseek.org/
+  | http://www.rseek.org/
 
 Stackoverflow
-    http://stackoverflow.com/
+  | http://stackoverflow.com/
 
 R bloggers
-    http://www.r-bloggers.com/
+  | http://www.r-bloggers.com/
 
 .. vim:ft=rst:tw=79:noet:
